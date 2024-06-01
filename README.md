@@ -4,17 +4,18 @@ Implemented Time Series Kmeans with Dynamic Time Warping on metereological data 
 Sum of Within cluster distances and Silhouette Score were used to choose the appropriate number of clusters.
 
 The datasets contains Emilia Romagna metereological data collected from 2017 to 2020.
-The files are for the Emilia Romagna provinces:
 
-Bologna
-Ferrara
-Forlì-Cesena
-Modena
-Parma
-Piacenza
-Ravenna
-Reggio Emilia
-Rimini
+The provinces are:
+
+- Bologna
+- Ferrara
+- Forlì-Cesena
+- Modena
+- Parma
+- Piacenza
+- Ravenna
+- Reggio Emilia
+- Rimini
 
 Here's a brief explanation of some of the used meteorological columns:
 
